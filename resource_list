@@ -1,0 +1,86 @@
+# Resources:
+
+1. https://book.hacktricks.xyz
+2. https://github.com/S3cur3Th1sSh1t/Pentest-Tools
+3. https://github.com/emilyanncr/Windows-Post-Exploitation
+6. https://docs.microsoft.com/en-us/sysinternals/
+7. https://docs.microsoft.com/en-us/powersh...w=win10-ps (Set up VPN incoming connections on Windows 10)
+8. https://docs.microsoft.com/en-us/powersh...w=win10-ps (NetTCPIP Docs)
+9. https://docs.microsoft.com/en-us/windows...erver-role (Commands by Server Role)
+10. https://docs.microsoft.com/en-us/powersh...w=win10-ps (Active Directory)
+11. https://docs.microsoft.com/en-us/windows...d-security (Windows Defender Firewall with Advanced Security)
+12. [https://docs.microsoft.com/en-us/powersh...w=win10-ps (NetAdapter Module enable the capability to configure DHCP to Static IP Address)
+13. https://github.com/nixawk/pentest-wiki/b..._number.md (TCP Ports List)
+14. [RTFM (Red Team Field Manual)](https://github.com/Agahlot/RTFM/blob/mas...manual.pdf)
+15. Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali (ebook)
+16. https://rubyfu.net
+17. Black Hat Ruby — Offensive Ruby programming book for hackers & pentesters (Helps you to understand more about Ruby and making your own Metasploit Modules)
+18. https://github.com/enaqx/awesome-pentest (Roadmap of Pentesting Testing/Hacking)
+19. https://docs.microsoft.com/en-us/sysinternals/ (Windows System Internals)
+20. https://docs.microsoft.com/en-us/sysinte...nals-suite (Download all the tools)
+21. https://radare.gitbooks.io/radare2book/content/
+22. https://exploitee.rs
+23. https://github.com/wtsxDev/reverse-engineering
+24. https://github.com/r0hi7/BinExp (Binary Exploitation)
+25. https://heap-exploitation.dhavalkapil.com
+26. https://aldeid.com/wiki/Tor/Usage/Nmap-scan-through-tor
+27. Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning (ebook)
+28. https://github.com/JohnHammond/ctf-katana (Useful tips that can aid in Security Penetration)
+29. https://robvanderwoude.com/ntadmincommands.php (Useful Commands for Windows administrators)
+30. https://ss64.com/nt/ (A-Z Index of Windows CMD commands)
+31. [wevtutil](https://docs.microsoft.com/en-us/windows...s/wevtutil)
+32. https://github.com/emilyanncr/Windows-Post-Exploitation
+33. https://blog.g0tmi1k.com/2011/08/basic-l...scalation/
+34. https://github.com/Jsitech/JShielder
+35. https://vulp3cula.gitbook.io/hackers-grimoire/
+36. http://pwnwiki.io
+37. https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+38. https://m0chan.github.io/2019/07/30/Wind...sheet.html
+39. https://posts.specterops.io/offensive-la...44ae62b14f
+40. https://rmusser.net/docs/index.html
+41. http://devttys0.com/blog/ (Reverse Engineering Embedded devices)
+42. https://github.com/swisskyrepo/PayloadsAllTheThings
+43. https://ired.team && https://github.com/mantvydasb/RedTeam-Ta...Techniques
+44. https://blog.netspi.com/
+45. https://rastating.github.io/creating-a-s...e-crypter/
+46. https://pentestgodmod.readthedocs.io/en/latest/
+47. https://github.com/nixawk/pentest-wiki (Pentest-Wiki)
+48. https://pentestlab.blog/
+49. https://github.com/0xVIC/myAPPLockerBypassSummary
+50. https://github.com/milkdevil/UltimateApp...ByPassList
+51. https://github.com/d1pakda5/PowerShell-for-Pentesters
+52. https://exploitedbunker.com/articles/pen...heatsheet/
+53. https://howto.thec2matrix.com/
+54. https://0xdf.gitlab.io/2020/08/10/tunnel...pdate.html
+55. https://nagarrosecurity.com/blog/smb-nam...eterpreter (Uses the same technique as Cobalt Strike SMB Beacon PIPE)
+56. https://charlesreid1.com/wiki/Flags
+57. https://pentest.tonyng.net/
+58. https://decoder.cloud/2019/03/06/windows...rsonation/
+59. https://t0o0tz.com/posts/post0x0003/
+60. https://hackingarticles.in/linux-privile...ed-script/
+61. https://sqlwiki.netspi.com/
+62. https://tecmint.com/encrypt-decrypt-file...ssl-linux/ && https://putorius.net/how-to-create-enrcy...sword.html && https://linuxconfig.org/how-to-create-co...ar-and-gpg
+63. https://github.com/EONRaider/blackhat-python3 (You can follow along with the book "Black Hat Python by Justin Seitz" using just python version 3)
+64. https://guyinatuxedo.github.io/
+65. https://labofapenetrationtester.com/2015...day-1.html
+66. https://ethicalhackingguru.com/the-compl...l-hackers/
+67. https://ethicalhackingguru.com/post-expl...ove-files/
+68. https://ethicalhackingguru.com/hacking-t...ell-in-go/
+69. https://ethicalhackingguru.com/learn-pyt...ali-linux/
+70. https://ired.team/offensive-security/cod...-resources
+71. https://purpl3f0xsecur1ty.tech/2019/09/2...0-day.html
+72. https://github.com/RihaMaheshwari/OSCP-P...n-Material
+73. https://github.com/OlivierLaflamme/Cheatsheet-God
+74. https://redteamer.tips/so-you-want-to-be...ed-teamer/
+75. https://hackmag.com/
+76. https://github.com/martabyte/Red-Team-Ops
+77. https://github.com/0xroman1/Scuffed_Low_Level_Stash
+78. https://vusec.net/projects/blindside/
+79. https://medium.com/@dawid.golak/attack-a...89a4c2e3a6
+80. https://drive.google.com/file/d/1znezUNt...BXRsz/view (Offensive Security Evasion Techniques)
+81. https://medium.com/@rvrsh3ll/offensive-i...9b4b7e58d8
+82. https://github.com/securityELI/CTP-OSCE
+83. https://hackercoolmagazine.com/
+84. https://xapax.github.io/security/
+85. http://pentest-standard.org/index.php/Main_Page
+86. https://docs.anarchy-farm.com/

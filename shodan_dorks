@@ -1,10 +1,4 @@
-1. port:"5984"+Server: "CouchDB/2.1.0" 
-2. "authentication disabled" "RFB 003.008"
-3. "\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
-4. port:"3389" Some with Screenshots
-5. dvrdvs-webs Most have default password
-
-
+///VARIOUS 
 Citrix - Find Citrix Gateway. Example: title:"citrix gateway"[/align]
 
 Wifi Passwords - Helps to find the cleartext wifi passwords in Shodan. Example: html:"def_wirelesspassword"
@@ -36,3 +30,11 @@ Android Root Bridge - Find android root bridges with port 5555. Example: "Androi
 Etherium Miners - Shows the miners running ETH. Example: "ETH - Total speed"
  
 Tesla Powerpack charging Status - Helps to find the charging status of tesla powerpack. Example: http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2
+
+///RDP 
+1. port:"5984"+Server: "CouchDB/2.1.0" 
+2. "authentication disabled" "RFB 003.008"
+3. "\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
+4. port:"3389" Some with Screenshots
+5. dvrdvs-webs Most have default password
+

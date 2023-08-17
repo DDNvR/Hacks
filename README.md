@@ -1,3 +1,34 @@
 # Hacks
 
-Various materials related to hacking that can be used everyday
+
+
+
+
+# Overview of hardware hacking
+Hardware hacking enables hackers to be able to exploit the normal functionality of common hardware into their desires. Normally, these actions are not expected by the manufacturer of the hardware equipment. Hackers are therefore able to use tools together with Kali Linux to extract data and information out of such hardware in environments. The following sections discuss some of the commonly used tools for hardware hacking.
+
+Tools for hardware hacking
+You can use these tools with your Kali Linux installation to modify the normal functionality of certain hardware devices that you have or can access. These tools are as follows.
+
+      USBKill: USBKill is a device that you can use to perform stress tests on hardware that is USB capable. It works by taking in power from the connected device via USB, then multiplies it and discharges it into the data lines of the device. This effectively disables any device that is not protected against such attacks. You can use this device to test hardware and determine which ones are more resilient.
+      Wi-Fi pineapple: the Wi-Fi pineapple is a device that allows you to clone and mimic existing Wi-Fi hotspots and create rogue access points that you can control. You can also collect credentials of connected victims by creating phishing pages and serving them to the unsuspecting victims, this is a much better way than relying on the Social Engineering Toolkit in Kali Linux.
+      USB rubber ducky: the USB rubber ducky is a thumb drive-like device. Since it is plug-and-play, it simulates a HUD device such as a keyboard and using scripts that you can write in Kali Linux, you can instruct it to run the scripts immediately when connected to the target USB device. These scripts can gather credentials from various locations, perform brute force attacks against password prompts, automatically copying files and directories to their internal memory.
+      UberTooth One: this is a very good tool for Bluetooth hacking. You can operate it within the 2.4 GHz frequency and for Bluetooth traffic monitoring with Kali Linux. You can use it with Kali Linux to capture Wi-Fi traffic. The captured traffic can be examined for sensitive content using software such as Wireshark in Kali Linux that we shall see in the next section.
+      Alfa AWUS036NHA USB Wi-Fi adapter: the Alfa is the primary tool for attacking wireless networks using Kali Linux. It is supported by a huge number of Kali Linux kernels and uses the Atheros chipset that allows you to operate within all six Wi-Fi modes. This adapter is mostly preferred due to its packet injection capabilities and works well with most Kali Linux versions.
+      Raspberry pi: this is a small computer that you can install Kali Linux on and is quite small and portable. These devices are cheap, readily available and can be hidden in places that cannot be easily discovered. You can then operate this as a remote administration tool if you can have it installed in a network.
+      Arduino MKR1000: you can program this device in Kali Linux, allowing it to perform various functions. It is internet capable and you can use it as a human interface device like a USB mouse or keyboard, so it can perform like a USB rubber ducky. This can function better than the USB rubber ducky seen above. You can also access its web server from a browser on Kali Linux.
+      DigiSpark: the DigiSpark is a low-powered microcontroller that can be programmed using the Arduino IDE found in Kali Linux. Just like the Arduino board above, this device can be programmed to function just like a USB rubber ducky. The most interesting and amazing part of it all is that this device is incredibly cheap, costing only around $1.50.
+      LAN turtle: the USB LAN turtle works perfectly on Kali Linux. It can be connected to the LAN and administered remotely. It can also be used to intercept traffic inbound to a target computer. You would need to connect it to any USB ports of the target computer and connect a LAN cable through to it.
+  HackRF One: the HackRF One is a software-defined radio that can transmit or receive radio signals from 1MHz to 6GHz. It is compatible with Kali Linux. For you to use it, you will need an antenna since one is not provided by default. The best starter antenna that you can use is ANT500.
+  GoodFET: this is an open-source JTAG adapter, based on the TI MSP430 FET UIF and EZ430U boards and is a USB interface. You can use this tool together with others in Kali Linux to easily trigger a hex dump and re-flash the memory of multiple platforms such as the MSP430, AVR, PIC and many more.
+  Proxmark3 kit: you can use this tool to read RFID tags as well as a clone or sniff them. The capabilities of this tool are wide, allowing you to read RFID labels from a wide variety of applications. The beauty of this device is that it can operate from batteries in a stand-alone manner and is compatible with Kali Linux.
+  Attify badge: you can use this tool with Kali Linux to perform IoT penetration testing. This tool allows you to connect through various serial protocols that can be used to connect two variants of embedded devices to IoT devices.
+Software tools for hardware hacking
+The hardware tools that we have seen above allow you to hack various hardware devices however, there are some software tools that you can also use to configure some of these hardware tools. We examine a couple of these software tools below:
+
+      Arduino IDE: you can use the Arduino IDE found in Kali Linux to write exploit codes that can be used on Arduino boards to attack hardware devices. The IDE can be used with any Arduino board type and you can install it on Windows, Linux and macOS.
+      GoodFET: the GoodFET software can be installed on Kali Linux. It allows you to program the GoodFET JTAG adapter to perform the various functions that we have seen above when discussing the GoodFET device.
+      Ettercap: Ettercap is found in Kali Linux. It allows you to perform man-in-the-middle attacks against computers on the LAN network. Using Ettercap, you can sniff live connections, perform content filtering and host analysis.
+      Wireshark: Wireshark is a powerful protocol analyzer that is found in Kali Linux. It can be used to perform analysis of various protocols. You begin by capturing traffic transiting the network and then analyze the protocols that are captured.
+      Aircrack-ng: the aircrack-ng is a suite of tools found in Kali Linux that can be used to hack Wi-Fi networks. Using this tool, you can be able to perform packet monitoring and capturing, attacking by performing replay attacks, de-authentication attacks and the creation of fake access points.
+      Wifiphisher: you can download and use wifiphisher on Kali Linux to perform man-in-the-middle attacks against wireless clients by performing targeted Wi-Fi association attacks. You can also create customized login pages that resemble third-party login pages to perform phishing attacks against unsuspecting targets who connect to your rogue access point.
